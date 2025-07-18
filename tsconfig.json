@@ -5,6 +5,18 @@
   "references": [
     {
       "path": "./apps/an3"
+    },
+    {
+      "path": "./apps/shop"
+    },
+    {
+      "path": "./libs/shared-ui"
+    },
+    {
+      "path": "./apps/cnc"
+    },
+    {
+      "path": "./libs/states"
     }
   ]
 }

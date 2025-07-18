@@ -1,0 +1,8 @@
+{
+  "nxConsole.generateAiAgentRules": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript, typescriptreact, typescript]": {
+    "editor.formatOnSave": true
+  }
+}
