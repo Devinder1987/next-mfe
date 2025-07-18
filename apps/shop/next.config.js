@@ -13,6 +13,8 @@ const nextConfig = {
   images: {
     domains: ['cdn.dummyjson.com'],
   },
+  output: 'standalone',
+  basePath: '/shop',
 };
 
 const plugins = [
