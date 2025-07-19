@@ -1,0 +1,18 @@
+{
+  "name": "@next-mfe/an3",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "shop": "nx dev shop",
+    "cnc": "nx dev cnc",
+    "an3": "nx dev an3",
+    "build:an3": "nx build an3",
+    "build:shop": "nx build shop",
+    "build:cnc": "nx build cnc"
+  },
+  "dependencies": {
+    "next": "~15.2.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
+}
